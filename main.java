@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        // Tworzymy produkty
+     
         Book book1 = new Book("Wiedźmin", 59.99, "Andrzej Sapkowski");
         Clothing shirt = new Clothing("Koszulka", 49.99, "M");
 
@@ -20,3 +20,4 @@ public class Main {
     }
 
 }
+
