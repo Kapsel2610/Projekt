@@ -1,0 +1,9 @@
+Zadanie 1  
+Blok try, catch, finally w Javie służy do obsługi wyjątków. try jest wykonywany, a jeśli wystąpi błąd przechwyci go catch, finally uruchamia się zawsze, niezależnie od błędów, i najczęściej używa się go do zwalniania zasobów.  
+
+Zadanie 2  
+Dziedziczenie w Javie polega na tym, że jedna klasa może przejmować pola i metody innej klasy. Dzięki temu łatwiej rozbudowywać kod, bo można ponownie używać istniejących rozwiązań i rozszerzać je bez powielania.  
+
+Zadanie 3  
+Tablica array ma stałą długość i przechowuje elementy jednego typu, natomiast ArrayList może dynamicznie zmieniać rozmiar. Tablic używa się, gdy liczba elementów jest z góry znana i stała, a ArrayList sprawdza się lepiej przy kolekcjach o zmiennej wielkości.  
+
